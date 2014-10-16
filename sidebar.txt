@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byl:home|Door43 (byl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byl|d43-byl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byl/archive/master.zip|d43-byl.zip]]
+
+**Recent Changes**
+{{changes>ns = byl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byl|Ethnologue data]]
+
